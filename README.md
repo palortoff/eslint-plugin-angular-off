@@ -11,6 +11,12 @@ This is a wrapper around [eslint-plugin-angular](https://github.com/Gillespie59/
 npm install eslint-plugin-angular-off --save-dev
 ````
 
+You also need to install ``eslint-plugin-angular``.
+
+````
+npm install eslint-plugin-angular --save-dev
+````
+
 ### Usage
 
 Enable the plugin in the ``.eslintrc``

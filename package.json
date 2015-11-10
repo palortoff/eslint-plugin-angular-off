@@ -15,7 +15,6 @@
   "author": "palortoff",
   "license": "MIT",
   "dependencies": {
-    "eslint-plugin-angular": "0.x",
     "glob": "^5.0.15",
     "lodash": "^3.10.1"
   },
