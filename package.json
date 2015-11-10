@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-angular-off",
+  "version": "0.0.1",
+  "description": "Wrapper for esling-plugin-angular disabling all rules by default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests for this one\""
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "angular",
+    "angularjs"
+  ],
+  "author": "palortoff",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-angular": "0.x",
+    "glob": "^5.0.15",
+    "lodash": "^3.10.1"
+  },
+  "readmeFilename": "README.md"
+}
