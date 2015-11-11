@@ -12,6 +12,10 @@
     "angular",
     "angularjs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:palortoff/eslint-plugin-angular-off.git"
+  },
   "author": "palortoff",
   "license": "MIT",
   "dependencies": {
