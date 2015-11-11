@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-angular-off",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper for esling-plugin-angular disabling all rules by default",
   "main": "index.js",
   "scripts": {
